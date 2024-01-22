@@ -1,0 +1,64 @@
+# Casos para descripciones de síntomas específicos
+
+# Dolor en el Pecho con Tos Persistente y Falta de Aliento
+response('Parece que estás experimentando dolor en el pecho, tos persistente y falta de aliento. Estos síntomas podrían indicar una condición como la Enfermedad Pulmonar Obstructiva Crónica (EPOC). La EPOC se manifiesta con dolor en el pecho, tos crónica y dificultad para respirar.', ['dolor en el pecho', 'tos persistente', 'falta de aliento'])
+
+# Dolor Abdominal Inferior con Cambios en los Hábitos Intestinales
+response('Si estás experimentando dolor abdominal inferior y cambios en los hábitos intestinales, podría ser indicativo de Síndrome del Intestino Irritable (SII). El SII puede causar dolor abdominal y cambios en la frecuencia y consistencia de las deposiciones.', ['dolor abdominal inferior', 'cambios en los hábitos intestinales'])
+
+# Dolor en las Articulaciones con Erupciones Cutáneas
+response('El dolor en las articulaciones junto con erupciones cutáneas puede sugerir Lupus Eritematoso Sistémico. Esta condición se caracteriza por dolor en las articulaciones y la presencia de erupciones cutáneas.', ['dolor en las articulaciones', 'erupciones cutáneas'])
+
+# Dolor de Cabeza con Sensibilidad a la Luz y Sonido
+response('Si experimentas dolor de cabeza acompañado de sensibilidad a la luz y al sonido, podrías estar experimentando migrañas. Además del dolor de cabeza, las migrañas pueden provocar sensibilidad a la luz y al sonido.', ['dolor de cabeza', 'sensibilidad a la luz', 'sensibilidad al sonido'])
+
+# Dolor en la Parte Baja de la Espalda con Dolor que Irradia a la Pierna
+response('El dolor en la parte baja de la espalda que irradia hacia una pierna podría ser indicativo de ciática. La ciática puede causar dolor en la parte baja de la espalda con irradiación hacia la pierna.', ['dolor en la parte baja de la espalda', 'dolor que irradia a la pierna'])
+
+# Fatiga con Sensación de Tristeza y Desinterés
+response('La fatiga acompañada de sensación de tristeza y desinterés podría indicar Depresión Mayor. La depresión se caracteriza por una tristeza persistente, falta de interés y fatiga.', ['fatiga', 'sensación de tristeza', 'desinterés'])
+
+# Dolor en el Pecho con Reflujo Ácido
+response('Si experimentas dolor en el pecho junto con acidez estomacal, es posible que estés lidiando con Enfermedad por Reflujo Gastroesofágico (ERGE). La ERGE puede causar dolor en el pecho junto con síntomas de reflujo ácido.', ['dolor en el pecho', 'reflujo ácido'])
+
+# Dificultad para Respirar con Tos y Producción de Esputo
+response('La dificultad para respirar acompañada de tos y producción de esputo podría ser indicativa de Enfermedad Pulmonar Intersticial. Esta condición puede manifestarse con dificultad para respirar, tos y producción de esputo.', ['dificultad para respirar', 'tos', 'producción de esputo'])
+
+# Dolor Articular con Inflamación y Rigidez Matutina
+response('Si experimentas dolor articular acompañado de inflamación y rigidez matutina, podrías estar enfrentando Artritis Reumatoide. Esta condición puede causar dolor en las articulaciones, inflamación y rigidez matutina.', ['dolor articular', 'inflamación', 'rigidez matutina'])
+
+# Dolor Abdominal con Pérdida de Apetito y Cambios en el Peso
+response('El dolor abdominal junto con pérdida de apetito y cambios en el peso podría indicar Enfermedad Inflamatoria Intestinal (EII). La EII puede incluir síntomas como dolor abdominal, pérdida de apetito y cambios en el peso.', ['dolor abdominal', 'pérdida de apetito', 'cambios en el peso'])
+
+# Casos para descripciones de síntomas específicos
+
+# Dolor en el Pecho con Tos Persistente y Falta de Aliento
+response('Parece que estás experimentando dolor en el pecho, tos persistente y falta de aliento. Estos síntomas podrían indicar una condición como la Enfermedad Pulmonar Obstructiva Crónica (EPOC). La EPOC se manifiesta con dolor en el pecho, tos crónica y dificultad para respirar.', ['dolor en el pecho', 'tos persistente', 'falta de aliento'])
+
+# Dolor Abdominal Inferior con Cambios en los Hábitos Intestinales
+response('Si estás experimentando dolor abdominal inferior y cambios en los hábitos intestinales, podría ser indicativo de Síndrome del Intestino Irritable (SII). El SII puede causar dolor abdominal y cambios en la frecuencia y consistencia de las deposiciones.', ['dolor abdominal inferior', 'cambios en los hábitos intestinales'])
+
+# Dolor en las Articulaciones con Erupciones Cutáneas
+response('El dolor en las articulaciones junto con erupciones cutáneas puede sugerir Lupus Eritematoso Sistémico. Esta condición se caracteriza por dolor en las articulaciones y la presencia de erupciones cutáneas.', ['dolor en las articulaciones', 'erupciones cutáneas'])
+
+# Dolor de Cabeza con Sensibilidad a la Luz y Sonido
+response('Si experimentas dolor de cabeza acompañado de sensibilidad a la luz y al sonido, podrías estar experimentando migrañas. Además del dolor de cabeza, las migrañas pueden provocar sensibilidad a la luz y al sonido.', ['dolor de cabeza', 'sensibilidad a la luz', 'sensibilidad al sonido'])
+
+# Dolor en la Parte Baja de la Espalda con Dolor que Irradia a la Pierna
+response('El dolor en la parte baja de la espalda que irradia hacia una pierna podría ser indicativo de ciática. La ciática puede causar dolor en la parte baja de la espalda con irradiación hacia la pierna.', ['dolor en la parte baja de la espalda', 'dolor que irradia a la pierna'])
+
+# Fatiga con Sensación de Tristeza y Desinterés
+response('La fatiga acompañada de sensación de tristeza y desinterés podría indicar Depresión Mayor. La depresión se caracteriza por una tristeza persistente, falta de interés y fatiga.', ['fatiga', 'sensación de tristeza', 'desinterés'])
+
+# Dolor en el Pecho con Reflujo Ácido
+response('Si experimentas dolor en el pecho junto con acidez estomacal, es posible que estés lidiando con Enfermedad por Reflujo Gastroesofágico (ERGE). La ERGE puede causar dolor en el pecho junto con síntomas de reflujo ácido.', ['dolor en el pecho', 'reflujo ácido'])
+
+# Dificultad para Respirar con Tos y Producción de Esputo
+response('La dificultad para respirar acompañada de tos y producción de esputo podría ser indicativa de Enfermedad Pulmonar Intersticial. Esta condición puede manifestarse con dificultad para respirar, tos y producción de esputo.', ['dificultad para respirar', 'tos', 'producción de esputo'])
+
+# Dolor Articular con Inflamación y Rigidez Matutina
+response('Si experimentas dolor articular acompañado de inflamación y rigidez matutina, podrías estar enfrentando Artritis Reumatoide. Esta condición puede causar dolor en las articulaciones, inflamación y rigidez matutina.', ['dolor articular', 'inflamación', 'rigidez matutina'])
+
+# Dolor Abdominal con Pérdida de Apetito y Cambios en el Peso
+response('El dolor abdominal junto con pérdida de apetito y cambios en el peso podría indicar Enfermedad Inflamatoria Intestinal (EII). La EII puede incluir síntomas como dolor abdominal, pérdida de apetito y cambios en el peso.', ['dolor abdominal', 'pérdida de apetito', 'cambios en el peso'])
+
